@@ -14,13 +14,17 @@ TableauPublic profile: https://public.tableau.com/app/profile/pedro.henrique.fra
 ** The data represents sales from 2018 to 2021, therefore the YTD indicators are off-set by 3 years.
 
 YTD Sales
+
 ![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20YTD%20sales.png)
 
 YTD Profit
+
 ![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20YTD%20profit.png)
 
 Previous YTD Sales
+
 ![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20previous%20sales.png)
 
 Previous YTD Profit
+
 ![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20previous%20profit.png)
