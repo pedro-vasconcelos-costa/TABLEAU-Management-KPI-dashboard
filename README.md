@@ -2,12 +2,25 @@
 
 Management dashboard for live tracking of sales and profit KPIs from a United States 'persona' company, operating in 49 states.
 
+
+### Please access the interactive dashboard on the link below.
+TableauPublic profile: https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa
+
+
 ![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20KPI%20dashboard.png)
 
 
-### Tableau Public: https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa
+## Tableau KPI Calculations code:
+** The data represents sales from 2018 to 2021, therefore the YTD indicators are off-set by 3 years.
 
-Please access the project in more detail on the link above.
+YTD Sales
+![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20YTD%20sales.png)
 
+YTD Profit
+![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20YTD%20profit.png)
 
-The data represents sales from 2018 to 2021, therefore the YTD indicators are off-set by 3 years.
+Previous YTD Sales
+![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20previous%20sales.png)
+
+Previous YTD Profit
+![image](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard-/blob/main/img_%20previous%20profit.png)
